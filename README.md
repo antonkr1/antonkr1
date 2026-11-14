@@ -4,7 +4,7 @@ Je répertorie ici mes projets. Je monte en ce moment un homelab pour apprendre 
 
 ## Projets
 
-### [homelab-devops](https://github.com/antonkr1/homelab-devops) 
+### [Homelab DevOps](https://github.com/antonkr1/homelab-devops) 
 Homelab construit sur Proxmox : cluster Kubernetes (kubeadm), provisionnement avec Terraform et Ansible, supervision (Prometheus, Grafana, Loki), gestion des secrets (Vault), accès distant sécurisé (Tailscale).
 
 ### [Chaîne CI/CD PoMAssistant](https://github.com/antonkr1/homelab-devops/blob/main/docs/roadmap-pomassistant.md)
