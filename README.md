@@ -1,16 +1,17 @@
-## Hi there 👋
+# Anton Kremer
 
-<!--
-**antonkr1/antonkr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je répertorie ici mes projets. Je monte en ce moment un homelab pour apprendre les concepts de base du DevOps. 
 
-Here are some ideas to get you started:
+## Projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [homelab-devops](https://github.com/antonkr1/homelab-devops) 
+Homelab construit sur Proxmox : cluster Kubernetes (kubeadm), provisionnement avec Terraform et Ansible, supervision (Prometheus, Grafana, Loki), gestion des secrets (Vault), accès distant sécurisé (Tailscale).
+
+###[Chaîne CI/CD PoMAssistant](LIEN_DU_DEPOT)
+Hébergement et industrialisation d'une application web (Vue 3, Supabase) sur mon cluster : GitHub Actions, GHCR et ArgoCD, avec tests, scans de sécurité (Trivy, SonarQube) et contrôles bloquants sur chaque pull request.
+
+## En cours
+
+- Environnements de test et de production, application répliquée
+- Analyse statique du code dans la CI
+
