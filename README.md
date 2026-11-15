@@ -12,6 +12,6 @@ Hébergement et industrialisation d'une application web (Vue 3, Supabase) sur mo
 
 ## En cours
 
-- Environnements de test et de production, application répliquée
-- Analyse statique du code dans la CI
+- Environnements de test et de production séparés, application répliquée en production
+- Préparation certification AWS
 
