@@ -1,6 +1,6 @@
 # Anton Kremer
 
-Je répertorie ici mes projets. Je monte en ce moment un homelab pour apprendre les concepts de base du DevOps. 
+Je répertorie ici mes projets. Je monte en ce moment un homelab pour apprendre les concepts clés du DevOps. 
 
 ## Projets
 
